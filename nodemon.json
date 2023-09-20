@@ -1,0 +1,6 @@
+{
+    "ignore": [
+        "feedingschedule.json",
+        "params.json"
+    ]
+}
